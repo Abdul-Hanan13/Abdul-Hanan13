@@ -6,8 +6,8 @@
 *Designing bold. Coding clean.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-hanan-5a1020256)
-[![Portfolio](https://img.shields.io/badge/Design_Portfolio-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/3iV7LXFFGwZashZ2ZdIDtV/Portfolio)
-[![GitHub Pages](https://img.shields.io/badge/Live_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://abdul-hanan13.github.io/Portfolio/Front-end%20Web%20Development/Pakistan%20Website/index.html)
+[![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abdul-hanan13.github.io/Portfolio/)
+[![Design Portfolio](https://img.shields.io/badge/Design_Portfolio-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/3iV7LXFFGwZashZ2ZdIDtV/Portfolio)
 
 </div>
 
@@ -63,8 +63,8 @@ I completed a **4-month remote Graphic Design internship at NimisTech** where I 
 | 🌍 **Pakistan Informational Website** | HTML · CSS · JS | [Live ↗](https://abdul-hanan13.github.io/Portfolio/Front-end%20Web%20Development/Pakistan%20Website/index.html) |
 | 🏍️ **Bike Showcase — Hangine** | HTML · CSS | [Live ↗](https://abdul-hanan13.github.io/Portfolio/Front-end%20Web%20Development/Bike%20Website/index.html) |
 | 🎮 **Ludo Game — Human vs AI** | C++ · OOP · DSA | [Code ↗](https://github.com/Abdul-Hanan13/Portfolio/blob/main/Cpp-Projects/DSA%20LUDO%20PROJECT.cpp) |
-| 🌙 **AI Dream Therapist** | C++ · OOP · Arrays | [Code ↗](https://github.com/Abdul-Hanan13/Portfolio/tree/main/Cpp-Projects) |
 | 🔧 **Inventory & Billing System** | C++ · OOP · Inheritance | [Code ↗](https://github.com/Abdul-Hanan13/Portfolio/blob/main/Cpp-Projects/Inventory%20System.cpp) |
+| ♟️ **Chess Game** | C++ · OOP | [Code ↗](https://github.com/Abdul-Hanan13/Portfolio/tree/main/Cpp-Projects) |
 
 ---
 
